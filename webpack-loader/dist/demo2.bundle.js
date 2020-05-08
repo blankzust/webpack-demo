@@ -89,7 +89,7 @@
 /* 1 */
 /***/ (function(module, exports) {
 
-module.exports = "export default \"<h2 id=\\\"hello-markdown\\\">Hello Markdown</h2>\\n<p>this is a Markdown File2</p>\\n\"";
+module.exports = "<h2 id=\"hello-markdown\">Hello Markdown</h2>\n<p>this is a Markdown File2</p>\n";
 
 /***/ })
 /******/ ]);

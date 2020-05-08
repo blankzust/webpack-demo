@@ -32,7 +32,7 @@ const Config = {
         test: /demo2\.md$/,
         use: [
           'html-loader',
-          './index.js'
+          './index2.js'
         ]
       }
     ]

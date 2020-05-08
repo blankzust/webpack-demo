@@ -86,11 +86,9 @@
 /************************************************************************/
 /******/ ([
 /* 0 */
-/***/ (function(module, __webpack_exports__, __webpack_require__) {
+/***/ (function(module, exports) {
 
-"use strict";
-__webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<h2 id=\"hello-markdown\">Hello Markdown</h2>\n<p>this is a Markdown File</p>\n");
+module.exports="<h2 id=\"hello-markdown\">Hello Markdown</h2>\n<p>this is a Markdown File</p>\n"
 
 /***/ })
 /******/ ]);
