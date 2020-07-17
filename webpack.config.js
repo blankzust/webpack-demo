@@ -11,6 +11,8 @@
 //   mode: 'none'
 // }
 
+console.log(process.argv)
+
 const Config = {
   entry: './src/main.css',
   output: {
